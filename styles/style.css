@@ -195,7 +195,7 @@
 
 }
 
-.button_type_save svg{
+.button_type_save svg {
   position: relative;
   block-size: 21px;
   color: var(--bg-color);
@@ -250,11 +250,11 @@
   }
 
   .paragraph {
-  max-inline-size: 321px; 
+    max-inline-size: 321px;
 }
 
   .card__description p:nth-child(1) {
-  margin-block-end: 21px;
+    margin-block-end: 21px;
 }
 
   .button_type_save svg {
